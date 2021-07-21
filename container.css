@@ -1,0 +1,11 @@
+.container {
+    position: relative;
+    display: flex;
+    flex-shrink: 1;
+    width: 100%;
+    /* height: auto; */
+    margin-top: 20rem;
+    padding: 0 17rem;
+    gap: 4em;
+    text-align: left;
+}

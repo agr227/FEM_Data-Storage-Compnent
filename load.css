@@ -1,0 +1,28 @@
+.container-load {
+    position: relative;
+    height: fit-content;
+    padding: 1.5rem;
+    margin-top: 4.1rem;
+    background-color: hsl(228, 56%, 26%);
+    border-radius: 15px;
+}
+
+.container-load p #3 {
+    font-weight: 200px;
+}
+
+
+
+.load-stats {
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    /* padding-left: 1rem;
+    padding-right: 1rem; */
+    padding-bottom: 1rem;
+}
+
+.load-stats p {
+    float: left;
+    font-size: 8px;
+}

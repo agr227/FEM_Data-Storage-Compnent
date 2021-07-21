@@ -1,0 +1,23 @@
+.container-main {
+    margin: 0;
+    padding-top: 0;
+    padding-right: 10rem;
+    height: fit-content;
+    background-color: hsl(228, 56%, 26%);
+    border-radius: 15px 100px 15px 15px;
+}
+
+.logo {
+    margin: 3rem 0 0 3rem;
+}
+
+.icons {
+    margin: 2rem 0 3rem 3rem;
+}
+
+.icons img {
+    margin-right: .7rem;
+    padding: .7rem .7rem;
+    background-color: hsl(229, 57%, 11%);
+    border-radius: 5px;
+}
