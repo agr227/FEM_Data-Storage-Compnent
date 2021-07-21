@@ -11,5 +11,5 @@ body {
     padding: 0;
     width: 100vw;
     height: auto;
-    background: hsl(229, 57%, 11%) url(/images/bg-desktop.png) no-repeat left bottom fixed;
+    background: hsl(229, 57%, 11%) url(images/bg-desktop.png) no-repeat left bottom fixed;
 }
